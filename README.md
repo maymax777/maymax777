@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**maymax777/maymax777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+        <br>
+        <br>
+        <br>
+        <br>
+        <img src="https://raw.githubusercontent.com/anthowen/anthowen/master/tada.svg?sanitize=true" width="60" height="60">
+        <h3>Hi <i>there!</i> :clap: </h3>
+        <h4>I love to post my ideas, tricks and cool experiences on :octocat:<a href="https://cutt.ly/ant-gists" target="_blank"> gists :notebook_with_decorative_cover:</a>. Go check it out :)</h4>
+        <br>
+        <br>
+</div>
 
-Here are some ideas to get you started:
+<div>
+        
+![visitors](https://visitor-badge.glitch.me/badge?page_id=maymax777.maymax777)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
