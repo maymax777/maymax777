@@ -5,7 +5,7 @@
         <br>
         <br>
         <img src="https://raw.githubusercontent.com/maymax777/maymax777/master/logo.svg?sanitize=true" width="60" height="60">
-        <h3>Hi <i>there!</i> :clap: </h3>        
+        <h3>Wel<i>come!</i> :clap: </h3>        
         <br>
         <br>
 </div>
