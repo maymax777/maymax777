@@ -6,6 +6,7 @@
         <br>
         <img src="https://raw.githubusercontent.com/maymax777/maymax777/master/logo.svg?sanitize=true" width="60" height="60">        
 	<h3>Welcome </h3>
+	![visitors](https://visitor-badge.glitch.me/badge?page_id=maymax777.maymax777)
         <br>
 <table>
 <thead>
@@ -73,8 +74,6 @@
 </div>
 
 <div>
-        
-![visitors](https://visitor-badge.glitch.me/badge?page_id=maymax777.maymax777)
 
 </div>
 
