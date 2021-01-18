@@ -1,28 +1,33 @@
 
 <div align="center">
-        <br>
-        <br>
-        <br>
-        <br>
-        <img src="https://raw.githubusercontent.com/maymax777/maymax777/master/logo.svg?sanitize=true" width="60" height="60">        
-	<h3>Welcome </h3>
-	![visitors](https://visitor-badge.glitch.me/badge?page_id=maymax777.maymax777)
-        <br>
+<br>
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/maymax777/maymax777/master/logo.svg?sanitize=true" width="60" height="60" />        
+<h3>Welcome </h3>
+
+<div>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=maymax777.maymax777)
+</div>
+
+<br>
+
 <table>
 <thead>
 <td>
-	<b>Backend skills</b>
+<b>Backend skills</b>
 </td>
 <td>
-	<b>Frontend Skills</b>
+<b>Frontend Skills</b>
 </td>
 <td>
-	<b>Database</b>
+<b>Database</b>
 </td>
 </thead>
 <tr>
 <td>
-	<br>
+<br>
 
 <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjX5KbX9VBTfUyBj0io1gkXkBFXQe2fKKYXw&usqp=CAU"></code>
 <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxE-rx44c5yJNQmo7dGvSWcRxVmiRHTu7Y-w&usqp=CAU"></code>
@@ -45,7 +50,7 @@
 <br>
 </td>
 <td>
-	<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <br>
