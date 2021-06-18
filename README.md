@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/maymax777/maymax777/master/logo.svg?sanitize=true" width="60" height="60" />        
 <h3>Welcome </h3>
 
-<a href="https://gist.github.com/maymax777" _blank>...GIST...</a>
+<a href="https://gist.github.com/maymax777" target="_blank">...GIST...</a>
   
 <div>
 
