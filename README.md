@@ -18,7 +18,7 @@
 
 <div align="left">
 
-## About Me
+## :fire: About Me
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Full-Stack Blockchain developer specialized in DeFi and Solidity <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></p>
 </article>
@@ -40,7 +40,7 @@
 
 <div align="left">
 
-## Skills
+## :book: Skills
 
 <table>
   <tr>
@@ -58,27 +58,27 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
-      <td><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></td>
-      <td><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></td>
-      <td><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></td>
-      <td><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png"></td>
+      <td><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="200"></td>
+      <td><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="200"></td>
+      <td><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" width="200"></td>
+      <td><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" width="200"></td>
   </tr>
   <tr>
-      <td><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3BJCUaAko_zjufh6UIDOEdBQZ8qgg0fIWwA&usqp=CAU"></td>
-      <td><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjX5KbX9VBTfUyBj0io1gkXkBFXQe2fKKYXw&usqp=CAU"></td>
-      <td><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxE-rx44c5yJNQmo7dGvSWcRxVmiRHTu7Y-w&usqp=CAU"></td>
-      <td><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS1jsAm8BRk5jZmU5VFEtCTBZQ7II-h2g9Kg&usqp=CAU"></td>
-      <td><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwA5YjmHbQtzMqCC5iEiugMjzUfkysMLOxTw&usqp=CAU"></td>
-      <td><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyGiYfN3iDJoXW0yvYSNWYFKofvrmf0oITCA&usqp=CAU"></td>
-      <td><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></td>
-      <td><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></td>
-        </tr>
+      <td><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3BJCUaAko_zjufh6UIDOEdBQZ8qgg0fIWwA&usqp=CAU" width="200"></td>
+      <td><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjX5KbX9VBTfUyBj0io1gkXkBFXQe2fKKYXw&usqp=CAU" width="200"></td>
+      <td><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxE-rx44c5yJNQmo7dGvSWcRxVmiRHTu7Y-w&usqp=CAU" width="200"></td>
+      <td><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS1jsAm8BRk5jZmU5VFEtCTBZQ7II-h2g9Kg&usqp=CAU" width="200"></td>
+      <td><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwA5YjmHbQtzMqCC5iEiugMjzUfkysMLOxTw&usqp=CAU" width="200"></td>
+      <td><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyGiYfN3iDJoXW0yvYSNWYFKofvrmf0oITCA&usqp=CAU" width="200"></td>
+      <td><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" width="200"></td>
+      <td><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" width="200"></td>
+  </tr>
 </table>
 </div>
 
 </div>
 
-## Tech Stack
+## :computer: Tech Stack
 
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
 [![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
